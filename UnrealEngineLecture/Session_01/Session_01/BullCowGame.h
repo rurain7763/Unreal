@@ -1,6 +1,9 @@
 #pragma once
+
 #include"iostream"
 #include"string"
+#include"map"
+#define TMap std::map
 
 using namespace std;
 
@@ -41,11 +44,20 @@ private:
 	int maxTries;
 	FString hiddenWord;
 	bool b;
+	
+	bool IsIsogram(FString) const;
+	bool IsLowercase(FString) const;
 };
 
 inline BullCowGame::BullCowGame() { Reset(); }
 
-inline int BullCowGame::GetMaxTries() const { return maxTries; }
+inline int BullCowGame::GetMaxTries() const 
+{
+	TMap<int32, int32> wordLenghthToMaxTries{ {3,4} ,
+	{4,7},{5,2} ,{6,5} };
+
+	return wordLenghthToMaxTries[GetHiddenWordLength()]; 
+}
 inline int BullCowGame::GetCurrentTry() const { return currentTry; }
 inline int32 BullCowGame::GetHiddenWordLength() const
 {
@@ -92,14 +104,49 @@ inline bool BullCowGame::isGameWin() const
 	return b;
 }
 
+inline bool BullCowGame::IsIsogram(FString guess) const
+{
+	if (guess.length() <= 1) return true;
+
+	TMap<char, bool> word;
+
+	for (auto letter : guess) {		
+		letter = tolower(letter);
+
+		if (word[letter])
+		{
+			return false;
+		}
+
+		else 
+		{
+			word[letter] = true;
+		}
+	}
+
+	return true;
+}
+
+inline bool BullCowGame::IsLowercase(FString guess) const
+{
+	if (guess.length() == 0) return false;
+
+	for (auto letter : guess) 
+	{
+		if (!islower(letter)) return false;
+	}
+
+	return true;
+}
+
 inline EGuessStatus BullCowGame::CheckGuessValidity(string guess) const
 {
-	if (false) 
+	if (!IsIsogram(guess))
 	{
 		return EGuessStatus::Not_Isogram;
 	}
 
-	else if (false)
+	else if (!IsLowercase(guess))
 	{
 		return EGuessStatus::Not_Lowercase;
 	}

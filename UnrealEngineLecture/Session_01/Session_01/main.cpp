@@ -1,3 +1,5 @@
+#pragma once
+
 #include"BullCowGame.h"
 
 using FText = std::string;
@@ -65,7 +67,8 @@ string GetValidGuess()
 	do {
 		//get guess word
 
-		cout << "Try: " << BCGame.GetCurrentTry() << ". Enter your guess: ";
+		cout << "Try: " << BCGame.GetCurrentTry() <<" of " 
+			<< BCGame.GetMaxTries() <<". Enter your guess: ";
 
 		cin >> guess;
 
@@ -74,20 +77,19 @@ string GetValidGuess()
 		switch (status)
 		{
 		case EGuessStatus::Not_Isogram:
-			cout << "Please enter a word without repeating letter.\n";
+			cout << "Please enter a word without repeating letter.\n\n";
 			break;
 
 		case EGuessStatus::Wrong_Length:
 			cout << "Please enter a " <<
-				BCGame.GetHiddenWordLength() << " letter word.\n";
+				BCGame.GetHiddenWordLength() << " letter word.\n\n";
 			break;
 
 		case EGuessStatus::Not_Lowercase:
-			cout << "Please enter all lowercase letters.\n";
+			cout << "Please enter all lowercase letters.\n\n";
 			break;
 		}
 
-		cout << "\n";
 
 	} while (status != EGuessStatus::OK);
 	
