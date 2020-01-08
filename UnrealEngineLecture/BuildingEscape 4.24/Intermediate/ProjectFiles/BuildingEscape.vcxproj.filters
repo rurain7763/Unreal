@@ -95,6 +95,7 @@
     <ClInclude Include="..\..\Source\BuildingEscape\PositionReporter.h">
       <Filter>Source\BuildingEscape</Filter>
     </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\BuildingEscape\OpenDoor.h">

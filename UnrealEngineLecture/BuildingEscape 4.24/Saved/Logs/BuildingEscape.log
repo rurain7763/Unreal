@@ -1708,3 +1708,1460 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.08-11.44.33:523][633]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.08-11.44.33:523][633]LogContentValidation: Display: Validating World /Game/Main.Main
 [2020.01.08-11.44.33:523][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2020.01.08-11.47.03:132][958]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss
+[2020.01.08-11.47.03:137][958]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.01.08-11.47.03:421][958]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.47.03:442][958]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.47.03:442][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.08-11.47.03:453][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.01.08-11.47.03:464][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2020.01.08-11.47.03:475][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2020.01.08-11.47.03:485][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.01.08-11.47.03:498][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.01.08-11.47.03:510][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.01.08-11.47.03:688][959]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2020.01.08-11.47.04:104][972]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2020.01.08-11.47.04:163][974]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.01.08-11.47.04:211][976]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2020.01.08-11.47.04:365][982]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2020.01.08-11.47.04:439][985]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2020.01.08-11.47.04:468][986]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2020.01.08-11.47.04:499][987]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2020.01.08-11.47.04:499][987]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2020.01.08-11.47.04:522][988]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2020.01.08-11.47.04:550][989]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2020.01.08-11.47.04:577][990]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.01.08-11.47.04:621][992]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2020.01.08-11.47.04:647][993]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2020.01.08-11.47.04:647][993]MaterialEditorStats: Base pass shader: 158 instructions
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: Base pass shader with Surface Lightmap: 185 instructions
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.01.08-11.47.04:648][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.47.04:673][994]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2020.01.08-11.47.04:748][997]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2020.01.08-11.47.04:927][  4]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2020.01.08-11.47.04:995][  7]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2020.01.08-11.47.04:995][  7]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2020.01.08-11.47.05:039][  9]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.47.05:064][ 10]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.01.08-11.47.05:064][ 10]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.01.08-11.47.05:102][ 12]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2020.01.08-11.47.05:120][ 13]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.47.05:144][ 14]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.47.05:162][ 15]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.01.08-11.47.05:182][ 16]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.08-11.47.05:205][ 17]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.01.08-11.47.41:241][ 79]LogSlate: Window 'M_Ground_Moss' being destroyed
+[2020.01.08-11.47.41:245][ 79]LogSlate: Window 'M_Ground_Moss' being destroyed
+[2020.01.08-11.47.41:272][ 79]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-11.47.41:272][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-11.48.08:647][321]Cmd: STAT FPS
+[2020.01.08-11.48.10:286][509]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.08-11.48.11:457][645]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.08-11.48.40:653][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.08-11.49.08:472][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.01.08-11.51.07:564][580]LogActorFactory: Actor Factory created SM_Chair
+[2020.01.08-11.51.08:241][653]LogActorFactory: Actor Factory created SM_Chair
+[2020.01.08-11.51.08:775][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2020.01.08-11.51.14:183][354]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2020.01.08-11.51.14:187][354]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.51.14:266][354]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.51.14:279][354]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.51.14:291][354]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.51.14:292][354]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.51.14:292][354]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.51.14:292][354]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.51.14:292][354]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.51.14:295][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.51.14:308][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.51.14:317][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.51.14:326][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.51.14:336][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.51.14:459][356]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2020.01.08-11.51.14:954][377]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2020.01.08-11.51.15:007][379]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2020.01.08-11.51.15:070][381]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.01.08-11.51.15:201][385]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2020.01.08-11.51.15:201][385]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2020.01.08-11.51.15:229][386]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2020.01.08-11.51.15:279][388]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2020.01.08-11.51.15:300][389]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2020.01.08-11.51.15:320][390]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.01.08-11.51.15:321][390]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.51.15:321][390]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.01.08-11.51.15:343][391]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.51.15:373][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.51.15:479][395]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.01.08-11.51.15:479][395]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2020.01.08-11.51.15:550][398]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2020.01.08-11.51.15:737][405]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.01.08-11.51.15:800][408]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2020.01.08-11.51.15:801][408]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.01.08-11.51.15:801][408]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.08-11.52.04:691][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.04:701][  6]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.01.08-11.52.04:701][  6]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.01.08-11.52.04:701][  6]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-11.52.04:701][  6]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-11.52.04:701][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.04:712][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.04:722][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.04:733][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.04:739][  6]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2020.01.08-11.52.04:739][  6]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.01.08-11.52.04:740][  6]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2020.01.08-11.52.04:746][  6]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.04:763][  6]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.04:788][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.04:811][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.04:826][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.04:842][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.04:857][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.04:872][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.04:889][  6]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.05:225][ 18]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.01.08-11.52.05:250][ 19]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2020.01.08-11.52.05:320][ 22]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2020.01.08-11.52.05:346][ 23]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2020.01.08-11.52.05:347][ 23]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 27
+[2020.01.08-11.52.05:394][ 25]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.01.08-11.52.05:438][ 27]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2020.01.08-11.52.05:460][ 28]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2020.01.08-11.52.05:460][ 28]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2020.01.08-11.52.05:460][ 28]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2020.01.08-11.52.05:485][ 29]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2020.01.08-11.52.05:485][ 29]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2020.01.08-11.52.05:776][ 40]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.01.08-11.52.05:803][ 41]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2020.01.08-11.52.05:828][ 42]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2020.01.08-11.52.05:828][ 42]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2020.01.08-11.52.05:919][ 46]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2020.01.08-11.52.05:919][ 46]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2020.01.08-11.52.05:961][ 48]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2020.01.08-11.52.05:961][ 48]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2020.01.08-11.52.05:961][ 48]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2020.01.08-11.52.05:992][ 49]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.01.08-11.52.06:042][ 51]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2020.01.08-11.52.06:042][ 51]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2020.01.08-11.52.06:248][ 58]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2020.01.08-11.52.06:279][ 59]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.01.08-11.52.06:310][ 60]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2020.01.08-11.52.06:367][ 62]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2020.01.08-11.52.06:419][ 64]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.01.08-11.52.06:444][ 65]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.01.08-11.52.06:493][ 67]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.52.07:000][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.52.07:443][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.07:451][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.07:460][145]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.01.08-11.52.07:460][145]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.01.08-11.52.07:460][145]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-11.52.07:460][145]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-11.52.07:460][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.01.08-11.52.07:469][145]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-11.52.07:469][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.07:482][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.07:496][145]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.07:518][145]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.07:540][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.07:564][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.07:578][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.07:594][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.07:610][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.07:626][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.07:650][145]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.07:923][153]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.01.08-11.52.07:945][154]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 30
+[2020.01.08-11.52.07:964][155]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2020.01.08-11.52.07:964][155]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 28
+[2020.01.08-11.52.07:964][155]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2020.01.08-11.52.07:964][155]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2020.01.08-11.52.08:021][158]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2020.01.08-11.52.08:039][159]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2020.01.08-11.52.08:072][161]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 23
+[2020.01.08-11.52.08:072][161]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2020.01.08-11.52.08:072][161]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2020.01.08-11.52.08:072][161]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2020.01.08-11.52.08:446][175]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2020.01.08-11.52.08:446][175]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2020.01.08-11.52.08:517][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2020.01.08-11.52.08:538][179]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2020.01.08-11.52.08:539][179]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2020.01.08-11.52.08:561][180]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2020.01.08-11.52.08:562][180]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2020.01.08-11.52.08:562][180]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.01.08-11.52.08:562][180]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2020.01.08-11.52.08:579][181]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2020.01.08-11.52.08:637][184]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.01.08-11.52.08:661][185]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.01.08-11.52.08:981][196]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.01.08-11.52.09:007][197]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.01.08-11.52.09:007][197]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.52.09:037][198]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.01.08-11.52.09:037][198]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.01.08-11.52.09:059][199]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.08-11.52.09:140][202]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.08-11.52.09:654][231]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.52.09:654][231]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.52.09:654][231]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.52.09:654][231]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.52.09:654][231]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.52.09:655][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.52.09:655][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.52.10:691][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.10:701][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.10:710][348]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.01.08-11.52.10:710][348]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.01.08-11.52.10:710][348]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-11.52.10:710][348]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-11.52.10:710][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.10:720][348]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.01.08-11.52.10:721][348]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-11.52.10:721][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.10:733][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.10:749][348]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.10:770][348]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.10:794][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.10:824][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.10:837][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.10:852][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.10:869][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.10:887][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.10:913][348]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.11:195][357]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2020.01.08-11.52.11:196][357]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2020.01.08-11.52.11:219][358]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2020.01.08-11.52.11:219][358]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 28
+[2020.01.08-11.52.11:219][358]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2020.01.08-11.52.11:243][359]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2020.01.08-11.52.11:302][362]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2020.01.08-11.52.11:302][362]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2020.01.08-11.52.11:320][363]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2020.01.08-11.52.11:320][363]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2020.01.08-11.52.11:320][363]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2020.01.08-11.52.11:341][364]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2020.01.08-11.52.11:725][376]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2020.01.08-11.52.11:726][376]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2020.01.08-11.52.11:814][379]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2020.01.08-11.52.11:814][379]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2020.01.08-11.52.11:838][380]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.01.08-11.52.11:839][380]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2020.01.08-11.52.11:839][380]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.01.08-11.52.11:839][380]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2020.01.08-11.52.11:839][380]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2020.01.08-11.52.11:862][381]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2020.01.08-11.52.11:895][383]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.01.08-11.52.11:940][385]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.01.08-11.52.12:116][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.12:131][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.12:147][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.12:159][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.12:173][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.12:193][391]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.12:221][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.12:235][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.12:252][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.12:267][391]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.01.08-11.52.12:267][391]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2020.01.08-11.52.12:267][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.12:282][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.12:292][391]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2020.01.08-11.52.12:292][391]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 24
+[2020.01.08-11.52.12:299][391]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.12:315][391]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2020.01.08-11.52.12:317][391]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.08-11.52.12:350][392]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2020.01.08-11.52.12:381][393]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2020.01.08-11.52.12:413][394]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2020.01.08-11.52.12:685][404]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2020.01.08-11.52.12:685][404]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 26
+[2020.01.08-11.52.12:714][405]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2020.01.08-11.52.12:715][405]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2020.01.08-11.52.12:915][413]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2020.01.08-11.52.12:916][413]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2020.01.08-11.52.12:943][414]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2020.01.08-11.52.12:943][414]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.01.08-11.52.13:082][419]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2020.01.08-11.52.13:138][421]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2020.01.08-11.52.13:138][421]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2020.01.08-11.52.13:186][423]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.01.08-11.52.13:186][423]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2020.01.08-11.52.13:210][424]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2020.01.08-11.52.13:233][425]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2020.01.08-11.52.13:233][425]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2020.01.08-11.52.13:359][430]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.01.08-11.52.13:384][431]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.01.08-11.52.13:461][434]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2020.01.08-11.52.13:461][434]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.01.08-11.52.13:590][439]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.01.08-11.52.13:617][440]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2020.01.08-11.52.13:648][441]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.52.13:693][442]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.01.08-11.52.13:732][443]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.01.08-11.52.13:732][443]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.01.08-11.52.13:777][445]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.01.08-11.52.14:358][471]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.52.14:358][471]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.52.14:359][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.52.14:359][471]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.52.14:359][471]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.52.14:359][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.52.14:359][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.52.14:475][484]LogMaterialEditor: Saving and Compiling material M_Chair
+[2020.01.08-11.52.14:861][484]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.52.14:899][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.52.14:926][484]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.52.14:973][484]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2020.01.08-11.52.15:011][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.08-11.52.15:031][484]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-11.52.15:697][484]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2020.01.08-11.52.15:698][484]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2020.01.08-11.52.15:702][484]TextureStreamingBuild: Display: Compiling optional shaders took 0.688 seconds.
+[2020.01.08-11.52.15:753][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.08-11.52.16:798][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.52.16:798][484]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2020.01.08-11.52.16:798][484]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.01.08-11.52.16:798][484]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.01.08-11.52.16:798][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.52.16:826][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Chair" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset" SILENT=true
+[2020.01.08-11.52.16:837][484]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/M_ChairA9EAAA9E43BC883A8E3EE4A722D56A26.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2020.01.08-11.52.16:861][484]AssetCheck: New page: Asset Save: M_Chair
+[2020.01.08-11.52.16:861][484]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Texture samplers: 5/16
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.52.16:861][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.52.18:536][667]LogSlate: Window 'M_Chair' being destroyed
+[2020.01.08-11.52.18:540][667]LogSlate: Window 'M_Chair' being destroyed
+[2020.01.08-11.52.18:557][667]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-11.52.18:558][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-11.52.26:479][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.08-11.52.27:159][676]Cmd: DELETE
+[2020.01.08-11.52.27:159][676]Cmd: ACTOR DELETE
+[2020.01.08-11.52.27:160][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.08-11.52.27:188][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.08-11.52.27:189][676]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.08-11.52.27:900][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Miky)
+[2020.01.08-11.52.28:004][770]Cmd: DELETE
+[2020.01.08-11.52.28:004][770]Cmd: ACTOR DELETE
+[2020.01.08-11.52.28:005][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.08-11.52.28:031][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.01.08-11.52.28:031][770]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.01.08-11.52.32:349][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2020.01.08-11.52.42:754][523]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2020.01.08-11.52.42:759][523]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.52.42:821][523]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.52.42:834][523]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.52.42:845][523]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.52.42:849][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.52.42:859][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.52.42:868][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.52.42:877][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.52.42:887][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.52.43:012][526]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2020.01.08-11.52.43:502][546]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2020.01.08-11.52.43:556][548]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2020.01.08-11.52.43:606][550]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.01.08-11.52.43:755][555]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.01.08-11.52.43:783][556]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2020.01.08-11.52.43:808][557]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2020.01.08-11.52.43:808][557]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2020.01.08-11.52.43:856][559]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2020.01.08-11.52.43:856][559]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.01.08-11.52.43:899][559]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.52.43:899][559]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.01.08-11.52.43:941][560]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.52.43:983][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.52.44:010][563]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.01.08-11.52.44:088][566]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2020.01.08-11.52.44:088][566]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2020.01.08-11.52.44:284][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.01.08-11.52.44:307][574]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.52.44:348][576]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.01.08-11.52.44:349][576]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.01.08-11.53.04:717][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.04:730][924]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.01.08-11.53.04:730][924]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.01.08-11.53.04:730][924]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-11.53.04:730][924]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-11.53.04:730][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.04:741][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.01.08-11.53.04:751][924]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-11.53.04:751][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.04:764][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.04:778][924]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.04:795][924]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.04:820][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.04:845][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.04:860][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.04:874][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.04:889][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.04:904][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.04:924][924]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.05:257][936]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2020.01.08-11.53.05:335][939]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2020.01.08-11.53.05:335][939]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2020.01.08-11.53.05:385][941]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 28
+[2020.01.08-11.53.05:409][942]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2020.01.08-11.53.05:409][942]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 26
+[2020.01.08-11.53.05:449][944]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2020.01.08-11.53.05:449][944]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2020.01.08-11.53.05:470][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2020.01.08-11.53.05:470][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.01.08-11.53.05:513][947]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2020.01.08-11.53.05:513][947]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2020.01.08-11.53.05:830][959]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2020.01.08-11.53.05:830][959]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2020.01.08-11.53.05:855][960]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2020.01.08-11.53.05:902][962]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2020.01.08-11.53.05:931][963]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2020.01.08-11.53.05:931][963]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2020.01.08-11.53.05:973][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2020.01.08-11.53.05:973][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2020.01.08-11.53.06:021][967]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.53.06:021][967]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2020.01.08-11.53.06:044][968]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.01.08-11.53.06:045][968]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2020.01.08-11.53.06:363][979]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.01.08-11.53.06:393][980]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.01.08-11.53.06:393][980]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2020.01.08-11.53.06:415][981]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2020.01.08-11.53.06:443][982]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.53.06:486][984]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.01.08-11.53.06:513][985]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.53.07:034][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.53.07:062][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.07:071][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.08-11.53.07:080][ 15]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.01.08-11.53.07:080][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.07:088][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.07:098][ 15]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.01.08-11.53.07:098][ 15]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.01.08-11.53.07:098][ 15]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.01.08-11.53.07:098][ 15]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-11.53.07:098][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.07:116][ 15]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.07:140][ 15]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.07:168][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.07:198][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.07:214][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.07:232][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.07:248][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.07:267][ 15]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.07:295][ 15]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.07:588][ 24]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2020.01.08-11.53.07:609][ 25]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2020.01.08-11.53.07:609][ 25]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 29
+[2020.01.08-11.53.07:609][ 25]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2020.01.08-11.53.07:609][ 25]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2020.01.08-11.53.07:631][ 26]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2020.01.08-11.53.07:667][ 28]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2020.01.08-11.53.07:667][ 28]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2020.01.08-11.53.07:685][ 29]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2020.01.08-11.53.07:703][ 30]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2020.01.08-11.53.07:703][ 30]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2020.01.08-11.53.07:703][ 30]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2020.01.08-11.53.08:014][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.08:028][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.08:041][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.08:055][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.08:072][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.08:086][ 42]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2020.01.08-11.53.08:095][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.08:111][ 42]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2020.01.08-11.53.08:127][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.01.08-11.53.08:144][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.08-11.53.08:161][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.01.08-11.53.08:176][ 42]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2020.01.08-11.53.08:176][ 42]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2020.01.08-11.53.08:176][ 42]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2020.01.08-11.53.08:176][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.01.08-11.53.08:193][ 42]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2020.01.08-11.53.08:193][ 42]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2020.01.08-11.53.08:193][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.01.08-11.53.08:204][ 42]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2020.01.08-11.53.08:204][ 42]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.01.08-11.53.08:213][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.08:229][ 42]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.01.08-11.53.08:231][ 42]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.08-11.53.08:260][ 43]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2020.01.08-11.53.08:280][ 44]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2020.01.08-11.53.08:730][ 58]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2020.01.08-11.53.08:730][ 58]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2020.01.08-11.53.08:816][ 61]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 26
+[2020.01.08-11.53.08:895][ 64]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2020.01.08-11.53.08:896][ 64]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2020.01.08-11.53.08:996][ 68]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2020.01.08-11.53.09:045][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2020.01.08-11.53.09:069][ 71]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2020.01.08-11.53.09:096][ 72]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2020.01.08-11.53.09:121][ 73]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2020.01.08-11.53.09:144][ 74]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2020.01.08-11.53.09:168][ 75]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-11.53.09:168][ 75]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.01.08-11.53.09:311][ 80]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2020.01.08-11.53.09:399][ 83]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2020.01.08-11.53.09:399][ 83]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2020.01.08-11.53.09:399][ 83]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2020.01.08-11.53.09:557][ 89]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2020.01.08-11.53.09:585][ 90]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2020.01.08-11.53.09:586][ 90]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2020.01.08-11.53.09:635][ 92]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.01.08-11.53.09:687][ 94]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2020.01.08-11.53.09:687][ 94]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.01.08-11.53.09:715][ 95]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2020.01.08-11.53.09:762][ 97]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2020.01.08-11.53.09:837][100]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.53.09:864][101]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.53.09:916][103]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.53.10:537][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.53.13:391][464]LogMaterialEditor: Saving and Compiling material M_Chair
+[2020.01.08-11.53.13:751][464]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.53.13:792][464]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.53.13:804][464]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.01.08-11.53.13:845][464]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2020.01.08-11.53.13:881][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.08-11.53.13:897][464]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2020.01.08-11.53.14:626][464]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.01.08-11.53.14:629][464]TextureStreamingBuild: Display: Compiling optional shaders took 0.748 seconds.
+[2020.01.08-11.53.14:663][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.01.08-11.53.15:702][464]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.08-11.53.15:702][464]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.01.08-11.53.15:702][464]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.01.08-11.53.15:702][464]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.08-11.53.15:702][464]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.01.08-11.53.15:727][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Chair" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset" SILENT=true
+[2020.01.08-11.53.15:737][464]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/M_ChairD9D8706A4F990B56F798DBA64952F7A2.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2020.01.08-11.53.15:766][464]AssetCheck: New page: Asset Save: M_Chair
+[2020.01.08-11.53.15:766][464]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Texture samplers: 5/16
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.08-11.53.15:767][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.08-11.53.18:376][761]LogSlate: Window 'M_Chair' being destroyed
+[2020.01.08-11.53.18:380][761]LogSlate: Window 'M_Chair' being destroyed
+[2020.01.08-11.53.18:393][761]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-11.53.18:393][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-11.54.23:711][589]Cmd: STAT FPS
+[2020.01.08-11.55.32:251][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.01.08-11.55.32:254][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.08-11.55.32:341][775]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto3CF197930486AAE312CC4ACA1624611B4.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto3.umap'
+[2020.01.08-11.55.32:342][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.122
+[2020.01.08-11.55.32:342][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.122
+[2020.01.08-11.58.34:829][922]Candidate modules for hot reload:
+[2020.01.08-11.58.34:829][922]  BuildingEscape
+[2020.01.08-11.58.34:829][922]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,6609 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-11.58.34:836][922]Warning: Starting HotReload took  0.0s.
+[2020.01.08-11.58.41:025][626]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 5:58:41
+[2020.01.08-11.58.41:025][626]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-11.58.41:025][626]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-11.58.41:025][626]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/OpenDoor.h(28)  : LogCompile: Error: Unknown variable specifier 'VisableAnywhere'
+[2020.01.08-11.58.41:025][626]LogMainFrame: MainFrame: Module compiling took 6.215 seconds
+[2020.01.08-11.58.41:025][626]Warning: HotReload failed, recompile failed
+[2020.01.08-11.59.32:727][819]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.32:727][819]LogEditorTransaction: Undo Edit Default Value
+[2020.01.08-11.59.32:731][819]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.01.08-11.59.32:769][820]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.59.32:770][820]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-11.59.33:324][843]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.33:324][843]LogEditorTransaction: Undo Edit Default Value
+[2020.01.08-11.59.33:337][843]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.01.08-11.59.33:384][844]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2020.01.08-11.59.33:384][844]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2020.01.08-11.59.33:384][844]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2020.01.08-11.59.33:429][847]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.01.08-11.59.33:553][857]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.01.08-11.59.33:581][859]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.01.08-11.59.33:581][859]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2020.01.08-11.59.33:612][861]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.01.08-11.59.33:642][863]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2020.01.08-11.59.33:642][863]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.08-11.59.33:657][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.08-11.59.33:755][871]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.33:755][871]LogEditorTransaction: Undo Move Actors
+[2020.01.08-11.59.34:441][933]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.34:441][933]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.08-11.59.34:800][974]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.34:800][974]LogEditorTransaction: Undo Delete Actors
+[2020.01.08-11.59.35:141][ 10]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.35:141][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.08-11.59.35:547][ 58]Cmd: TRANSACTION UNDO
+[2020.01.08-11.59.35:547][ 58]LogEditorTransaction: Undo Delete Actors
+[2020.01.08-11.59.37:576][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2020.01.08-11.59.43:209][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.08-11.59.45:436][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Miky)
+[2020.01.08-11.59.47:189][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.00.01:087][298]Candidate modules for hot reload:
+[2020.01.08-12.00.01:087][298]  BuildingEscape
+[2020.01.08-12.00.01:087][298]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1505 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.00.01:093][298]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.00.07:220][  0]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:00:07
+[2020.01.08-12.00.07:220][  0]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.00.07:220][  0]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.00.07:220][  0]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/OpenDoor.h(28)  : LogCompile: Error: Unknown variable specifier 'VisableAnywhere'
+[2020.01.08-12.00.07:221][  0]LogMainFrame: MainFrame: Module compiling took 6.137 seconds
+[2020.01.08-12.00.07:221][  0]Warning: HotReload failed, recompile failed
+[2020.01.08-12.00.31:693][920]Candidate modules for hot reload:
+[2020.01.08-12.00.31:693][920]  BuildingEscape
+[2020.01.08-12.00.31:693][920]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,7025 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.00.31:701][920]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.00.37:879][627]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:00:37
+[2020.01.08-12.00.37:879][627]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.00.37:879][627]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.00.37:879][627]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/OpenDoor.h(28)  : LogCompile: Error: Unknown variable specifier 'VisableAnyWhere'
+[2020.01.08-12.00.37:879][627]LogMainFrame: MainFrame: Module compiling took 6.189 seconds
+[2020.01.08-12.00.37:879][627]Warning: HotReload failed, recompile failed
+[2020.01.08-12.01.00:579][490]Candidate modules for hot reload:
+[2020.01.08-12.01.00:579][490]  BuildingEscape
+[2020.01.08-12.01.00:579][490]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1753 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.01.00:585][490]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:01:10
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.01.10:749][668]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.387629 seconds
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.01.10:749][668]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.08-12.01.10:749][668]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.08-12.01.10:749][668]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-1753.lib
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1753.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1753.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-1753.dll
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1753.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1753.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.01.10:750][668]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.08-12.01.10:750][668]CompilerResultsLog: Total time in Parallel executor: 3.94 seconds
+[2020.01.08-12.01.10:750][668]CompilerResultsLog: Total execution time: 10.09 seconds
+[2020.01.08-12.01.10:750][668]LogMainFrame: MainFrame: Module compiling took 10.173 seconds
+[2020.01.08-12.01.10:779][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.01.08-12.01.10:791][668]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.08-12.01.10:795][668]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.08-12.01.10:868][668]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.01.10:870][668]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.01.10:916][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.01.08-12.01.10:926][668]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.01.10:926][668]Display: HotReload took 10.4s.
+[2020.01.08-12.04.03:457][179]Candidate modules for hot reload:
+[2020.01.08-12.04.03:457][179]  BuildingEscape
+[2020.01.08-12.04.03:457][179]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5287 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.04.03:463][179]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.04.06:632][541]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:04:06
+[2020.01.08-12.04.06:632][541]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.08-12.04.06:632][541]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.04.06:632][541]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.04.06:632][541]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/OpenDoor.h(8) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2020.01.08-12.04.06:632][541]LogMainFrame: MainFrame: Module compiling took 3.177 seconds
+[2020.01.08-12.04.06:632][541]Warning: HotReload failed, recompile failed
+[2020.01.08-12.04.42:843][786]Candidate modules for hot reload:
+[2020.01.08-12.04.42:843][786]  BuildingEscape
+[2020.01.08-12.04.42:843][786]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,3055 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.04.42:859][786]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.04.53:756][851]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:04:53
+[2020.01.08-12.04.53:756][851]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.08-12.04.53:756][851]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.04.53:756][851]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.04.53:756][851]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.2444265 seconds
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-3055.lib
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3055.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3055.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-3055.dll
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3055.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3055.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.04.53:757][851]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: Total time in Parallel executor: 3.77 seconds
+[2020.01.08-12.04.53:757][851]CompilerResultsLog: Total execution time: 10.55 seconds
+[2020.01.08-12.04.53:757][851]LogMainFrame: MainFrame: Module compiling took 10.918 seconds
+[2020.01.08-12.04.53:794][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.08-12.04.53:807][851]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.08-12.04.53:810][851]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.08-12.04.53:883][851]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.04.53:885][851]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.04.53:932][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.08-12.04.53:943][851]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.04.53:943][851]Display: HotReload took 11.1s.
+[2020.01.08-12.05.14:120][680]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Actors/Volumes/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors#Volume Types
+[2020.01.08-12.06.30:292][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.01.08-12.06.30:295][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.08-12.06.30:383][ 77]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto47B11461B4C206B4CD76E98A1098B99AE.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto4.umap'
+[2020.01.08-12.06.30:384][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.121
+[2020.01.08-12.06.30:384][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2020.01.08-12.07.21:295][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.08-12.07.21:956][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.08.02:872][223]Candidate modules for hot reload:
+[2020.01.08-12.08.02:872][223]  BuildingEscape
+[2020.01.08-12.08.02:872][223]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5472 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.08.02:880][223]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.08.13:181][424]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:08:13
+[2020.01.08-12.08.13:181][424]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.08.13:181][424]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.08.13:181][424]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.4557398 seconds
+[2020.01.08-12.08.13:181][424]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.08.13:181][424]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:   [1/5] OpenDoor.cpp
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:   [2/5] OpenDoor.gen.cpp
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-5472.lib
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5472.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5472.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-5472.dll
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5472.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5472.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.08.13:182][424]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: Total time in Parallel executor: 4.00 seconds
+[2020.01.08-12.08.13:182][424]CompilerResultsLog: Total execution time: 10.21 seconds
+[2020.01.08-12.08.13:182][424]LogMainFrame: MainFrame: Module compiling took 10.314 seconds
+[2020.01.08-12.08.13:209][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.08-12.08.13:224][424]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.08.13:225][424]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.08.13:272][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.08-12.08.13:282][424]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.08.13:282][424]Display: HotReload took 10.4s.
+[2020.01.08-12.08.31:012][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.08-12.08.34:892][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.10.56:631][252]Candidate modules for hot reload:
+[2020.01.08-12.10.56:631][252]  BuildingEscape
+[2020.01.08-12.10.56:631][252]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2812 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.10.56:640][252]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.11.07:789][  4]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:11:07
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.4092191 seconds
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.01.08-12.11.07:790][  4]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-2812.lib
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2812.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2812.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-2812.dll
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2812.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2812.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog: Total time in Parallel executor: 3.80 seconds
+[2020.01.08-12.11.07:791][  4]CompilerResultsLog: Total execution time: 10.78 seconds
+[2020.01.08-12.11.07:791][  4]LogMainFrame: MainFrame: Module compiling took 11.162 seconds
+[2020.01.08-12.11.07:827][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.08-12.11.07:842][  4]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.08-12.11.07:845][  4]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.08-12.11.07:917][  4]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.11.07:920][  4]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.11.07:968][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.08-12.11.07:978][  4]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.11.07:978][  4]Display: HotReload took 11.4s.
+[2020.01.08-12.11.18:810][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.08-12.11.19:598][284]Cmd: DELETE
+[2020.01.08-12.11.19:598][284]Cmd: ACTOR DELETE
+[2020.01.08-12.11.19:599][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.08-12.11.19:624][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.08-12.11.19:626][284]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.01.08-12.11.21:151][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Miky)
+[2020.01.08-12.11.21:780][539]Cmd: DELETE
+[2020.01.08-12.11.21:780][539]Cmd: ACTOR DELETE
+[2020.01.08-12.11.21:781][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.08-12.11.21:807][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.08-12.11.21:808][539]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.01.08-12.11.41:245][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.01.08-12.11.41:901][945]Cmd: DELETE
+[2020.01.08-12.11.41:901][945]Cmd: ACTOR DELETE
+[2020.01.08-12.11.41:902][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.08-12.11.41:929][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.08-12.11.41:931][945]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.01.08-12.11.50:374][954]MapCheck: New page: Map Check
+[2020.01.08-12.11.50:391][954]Cmd: MAP REBUILD ALLVISIBLE
+[2020.01.08-12.11.50:391][954]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.01.08-12.11.50:474][954]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2020.01.08-12.11.50:508][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.08-12.11.50:517][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:528][954]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.08-12.11.50:529][954]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.08-12.11.50:529][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:541][954]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-12.11.50:542][954]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-12.11.50:542][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:553][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:570][954]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.01.08-12.11.50:570][954]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.01.08-12.11.50:570][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:583][954]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2020.01.08-12.11.50:583][954]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.01.08-12.11.50:584][954]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.01.08-12.11.50:584][954]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.01.08-12.11.50:584][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:598][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:614][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.50:631][954]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2020.01.08-12.11.51:172][954]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2020.01.08-12.11.51:172][954]TextureStreamingBuild: Display: Compiling optional shaders took 0.661 seconds.
+[2020.01.08-12.11.51:190][954]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2020.01.08-12.11.51:192][954]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.01.08-12.11.51:218][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.08-12.11.51:220][954]LightingResults: New page: Lighting Build - 2020. 1. 9. 오전 6:11:51
+[2020.01.08-12.11.51:224][954]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.08-12.11.51:228][954]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.08-12.11.51:228][954]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.08-12.11.51:228][954]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.08-12.11.51:228][954]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15256
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.08-12.11.55:770][954]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.08-12.11.55:914][954]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.01.08-12.11.55:914][954]MapCheck: New page: Main - 2020. 1. 9. 오전 6:11:55
+[2020.01.08-12.11.55:914][954]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.01.08-12.11.55:915][954]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.329ms to complete.
+[2020.01.08-12.11.55:916][954]LogEditorBuildUtils: Build time 0:05
+[2020.01.08-12.11.55:965][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.01.08-12.11.55:977][954]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.08-12.11.55:977][954]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.08-12.11.55:977][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.01.08-12.11.56:025][954]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.01.08-12.11.56:025][954]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.01.08-12.11.56:161][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2020.01.08-12.11.56:176][956]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.01.08-12.11.56:176][956]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.01.08-12.11.56:176][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2020.01.08-12.11.56:216][956]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.08-12.11.56:216][956]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.01.08-12.11.56:239][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2020.01.08-12.11.56:253][957]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.01.08-12.11.56:253][957]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.01.08-12.11.56:253][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2020.01.08-12.11.56:301][957]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.01.08-12.11.56:301][957]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.01.08-12.11.56:324][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2020.01.08-12.11.56:339][958]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.08-12.11.56:339][958]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.01.08-12.11.56:339][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2020.01.08-12.11.56:371][959]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2020.01.08-12.11.56:372][959]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.08-12.11.56:384][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2020.01.08-12.11.56:401][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2020.01.08-12.11.56:982][961]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.01.08-12.11.56:982][961]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.01.08-12.11.56:982][961]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.01.08-12.11.56:982][961]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2020.01.08-12.11.57:176][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.08-12.12.00:187][167]Job is a success!
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:      Bricks at depth
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:      Bricks in each level
+[2020.01.08-12.12.00:349][168]LogVolumetricLightmapImport:          Main 			 10 bricks 	 100.0% (Persistent Level)
+[2020.01.08-12.12.00:460][168]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.01.08-12.12.00:460][168]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.01.08-12.12.00:460][168]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.01.08-12.12.00:460][168]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.01.08-12.12.00:514][168]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.01.08-12.12.00:514][168]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X256)
+[2020.01.08-12.12.00:514][168]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 16 meshes in 2 LightmapResourceClusters (8.0 Meshes per cluster).
+[2020.01.08-12.12.00:545][168]Lightmass on DESKTOP-QA6POHN: 1.49 sec total, 110 ms importing, 399 ms setup, 128 ms photons, 820 ms processing, 0 ms extra exporting [16/16 mappings]. Threads: 12.2 sec total, 2.15 sec processing.
+[2020.01.08-12.12.00:547][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.08-12.12.00:591][168]LogStaticLightingSystem: Illumination: 9.31 sec (105 ms encoding lightmaps, 36 ms encoding shadowmaps)
+[2020.01.08-12.12.00:591][168]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.01.08-12.12.00:591][168]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.01.08-12.12.00:777][168]DumpUnbuiltLightIteractions
+[2020.01.08-12.12.00:777][168]Lights with unbuilt interactions: 0
+[2020.01.08-12.12.00:777][168]
+[2020.01.08-12.12.00:777][168]Primitives with unbuilt interactions: 0
+[2020.01.08-12.12.00:842][169]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.08-12.12.00:842][169]MapCheck: New page: Main - 2020. 1. 9. 오전 6:12:00
+[2020.01.08-12.12.00:842][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.285ms to complete.
+[2020.01.08-12.12.04:468][604]LogSlate: Window 'Message Log' being destroyed
+[2020.01.08-12.12.04:471][604]LogSlate: Window 'Message Log' being destroyed
+[2020.01.08-12.13.02:737][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.14.13:004][  9]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.08-12.16.31:577][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.08-12.16.31:579][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.08-12.16.31:670][724]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto5605E0E5840E71D2DD487AF9D0EF95BCC.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto5.umap'
+[2020.01.08-12.16.31:671][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.124
+[2020.01.08-12.16.31:671][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2020.01.08-12.16.46:426][967]Candidate modules for hot reload:
+[2020.01.08-12.16.46:426][967]  BuildingEscape
+[2020.01.08-12.16.46:426][967]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2542 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.16.46:435][967]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:16:57
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.3986866 seconds
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.16.57:421][503]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-2542.lib
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2542.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2542.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-2542.dll
+[2020.01.08-12.16.57:421][503]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2542.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2542.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.16.57:422][503]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.08-12.16.57:422][503]CompilerResultsLog: Total time in Parallel executor: 3.81 seconds
+[2020.01.08-12.16.57:422][503]CompilerResultsLog: Total execution time: 10.78 seconds
+[2020.01.08-12.16.57:422][503]LogMainFrame: MainFrame: Module compiling took 10.998 seconds
+[2020.01.08-12.16.57:449][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.08-12.16.57:459][503]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.08-12.16.57:462][503]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.08-12.16.57:533][503]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.16.57:536][503]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.16.57:584][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.08-12.16.57:595][503]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.16.57:595][503]Display: HotReload took 11.2s.
+[2020.01.08-12.21.05:770][762]Candidate modules for hot reload:
+[2020.01.08-12.21.05:770][762]  BuildingEscape
+[2020.01.08-12.21.05:771][762]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2236 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.21.05:777][762]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.21.16:292][  5]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:21:16
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.5962608 seconds
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   [1/5] OpenDoor.cpp
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   [2/5] OpenDoor.gen.cpp
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-2236.lib
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2236.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2236.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-2236.dll
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2236.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2236.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Total time in Parallel executor: 4.01 seconds
+[2020.01.08-12.21.16:293][  5]CompilerResultsLog: Total execution time: 10.43 seconds
+[2020.01.08-12.21.16:293][  5]LogMainFrame: MainFrame: Module compiling took 10.526 seconds
+[2020.01.08-12.21.16:320][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.08-12.21.16:337][  5]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.21.16:338][  5]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.21.16:385][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.08-12.21.16:395][  5]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.21.16:395][  5]Display: HotReload took 10.6s.
+[2020.01.08-12.21.37:815][374]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-12.21.37:823][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.21.37:823][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-12.21.37:823][374]PIE: New page: PIE session: Main (2020. 1. 9. 오전 6:21:37)
+[2020.01.08-12.21.37:823][374]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.08-12.21.37:826][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002915s)
+[2020.01.08-12.21.37:827][374]LogAIModule: Creating AISystem for world Main
+[2020.01.08-12.21.37:827][374]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2020.01.08-12.21.37:827][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003893s)
+[2020.01.08-12.21.37:854][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.08-12.21.37:856][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.08-12.21.37:856][374]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.08-12.21.37:856][374]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Is Default: Yes
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: Channel Order:
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.08-12.21.37:869][374]LogAudioMixer: Display: 1: FrontRight
+[2020.01.08-12.21.37:879][374]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.21.37:880][374]LogInit: FAudioDevice initialized.
+[2020.01.08-12.21.37:892][374]LogLoad: Game class is 'GameModeBase'
+[2020.01.08-12.21.37:893][374]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.08-21.21.37
+[2020.01.08-12.21.37:893][374]LogWorld: Bringing up level for play took: 0.000814
+[2020.01.08-12.21.37:893][374]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.08-12.21.37:909][374]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.5
+[2020.01.08-12.21.37:909][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.21.47:850][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.22.00:813][691]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2020.01.08-12.22.59:511][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.22.59:511][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.22.59:511][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.22.59:511][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.22.59:511][676]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.08-12.22.59:511][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.22.59:511][676]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-12.22.59:511][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.22.59:520][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-12.22.59:520][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.22.59:522][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.22.59:549][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.22.59:552][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.22.59:554][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.08-12.22.59:615][681]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.08-12.27.55:153][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.01.08-12.27.55:154][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.029
+[2020.01.08-12.29.25:296][938]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.08-12.29.55:216][650]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.08-12.29.55:221][650]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.08-12.29.59:619][175]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-12.29.59:625][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.29.59:625][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-12.29.59:625][175]PIE: New page: PIE session: Main (2020. 1. 9. 오전 6:29:59)
+[2020.01.08-12.29.59:625][175]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.08-12.29.59:628][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003058s)
+[2020.01.08-12.29.59:629][175]LogAIModule: Creating AISystem for world Main
+[2020.01.08-12.29.59:629][175]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.01.08-12.29.59:629][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004101s)
+[2020.01.08-12.29.59:656][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.08-12.29.59:659][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.08-12.29.59:659][175]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.08-12.29.59:659][175]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Is Default: Yes
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: Channel Order:
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.08-12.29.59:672][175]LogAudioMixer: Display: 1: FrontRight
+[2020.01.08-12.29.59:683][175]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.29.59:684][175]LogInit: FAudioDevice initialized.
+[2020.01.08-12.29.59:692][175]LogLoad: Game class is 'BuildingEscapeGameModeBase'
+[2020.01.08-12.29.59:694][175]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.08-21.29.59
+[2020.01.08-12.29.59:694][175]LogWorld: Bringing up level for play took: 0.000766
+[2020.01.08-12.29.59:694][175]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.08-12.29.59:695][175]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.714
+[2020.01.08-12.29.59:696][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.30.13:673][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.30.13:673][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.30.13:673][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.30.13:673][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.30.13:673][850]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.08-12.30.13:673][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.30.13:673][850]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-12.30.13:673][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.30.13:678][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-12.30.13:678][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.30.13:680][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.30.13:709][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.30.13:712][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.30.13:714][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.01.08-12.30.13:780][856]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.08-12.36.20:850][994]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2020.01.08-12.38.09:960][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.08-12.38.09:962][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.032
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45973396-4F9B-8E95-9ECF-669066C5054E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=5b43ebff4881fc84f04943a0f18b0c04%7Cb5d6e49e75d142d69622ca661f9a08a3%7Cab18ccaf-bd1e-485f-82a5-e873c7c826e9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: request failed, libcurl error: 0 (No error)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2cd38277f70 [can pipeline])
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.40.58) port 443 (#33))
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 7 (Closing connection 33)
+[2020.01.08-12.38.27:369][557]LogHttp: Warning: 000002CDAEE66340: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.08-12.38.27:707][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45973396-4F9B-8E95-9ECF-669066C5054E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=5b43ebff4881fc84f04943a0f18b0c04%7Cb5d6e49e75d142d69622ca661f9a08a3%7Cab18ccaf-bd1e-485f-82a5-e873c7c826e9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.08-12.48.10:625][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.08-12.48.10:626][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.031
+[2020.01.08-12.49.38:783][637]Candidate modules for hot reload:
+[2020.01.08-12.49.38:783][637]  BuildingEscape
+[2020.01.08-12.49.38:783][637]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8097 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.08-12.49.38:791][637]Warning: Starting HotReload took  0.0s.
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: New page: Compilation - 2020. 1. 9. 오전 6:49:51
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.7023339 seconds
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: [Upgrade]
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-8097.lib
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8097.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8097.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-8097.dll
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8097.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8097.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.08-12.49.51:233][709]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Total time in Parallel executor: 5.76 seconds
+[2020.01.08-12.49.51:233][709]CompilerResultsLog: Total execution time: 12.27 seconds
+[2020.01.08-12.49.51:233][709]LogMainFrame: MainFrame: Module compiling took 12.453 seconds
+[2020.01.08-12.49.51:259][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.01.08-12.49.51:276][709]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.08-12.49.51:280][709]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.08-12.49.51:355][709]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.01.08-12.49.51:357][709]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.08-12.49.51:408][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.08-12.49.51:419][709]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3020 classes and 722 folders.
+[2020.01.08-12.49.51:419][709]Display: HotReload took 12.7s.
+[2020.01.08-12.50.18:531][385]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.08-12.50.29:107][642]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.08-12.50.29:111][642]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.08-12.50.34:166][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-12.50.34:174][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.50.34:174][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-12.50.34:174][246]PIE: New page: PIE session: Main (2020. 1. 9. 오전 6:50:34)
+[2020.01.08-12.50.34:174][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.08-12.50.34:177][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002867s)
+[2020.01.08-12.50.34:178][246]LogAIModule: Creating AISystem for world Main
+[2020.01.08-12.50.34:178][246]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.01.08-12.50.34:178][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004075s)
+[2020.01.08-12.50.34:206][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.08-12.50.34:209][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.08-12.50.34:209][246]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.08-12.50.34:209][246]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Is Default: Yes
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.08-12.50.34:222][246]LogAudioMixer: Display: Channel Order:
+[2020.01.08-12.50.34:223][246]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.08-12.50.34:223][246]LogAudioMixer: Display: 1: FrontRight
+[2020.01.08-12.50.34:236][246]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.50.34:237][246]LogInit: FAudioDevice initialized.
+[2020.01.08-12.50.34:242][246]LogLoad: Game class is 'BuildingEscapeGameModeBase'
+[2020.01.08-12.50.34:243][246]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.08-21.50.34
+[2020.01.08-12.50.34:243][246]LogWorld: Bringing up level for play took: 0.000723
+[2020.01.08-12.50.34:243][246]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.01.08-12.50.34:245][246]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.164
+[2020.01.08-12.50.34:245][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.50.39:601][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.50.39:601][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.50.39:602][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.50.39:602][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.50.39:602][886]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.08-12.50.39:602][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.50.39:602][886]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-12.50.39:602][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.50.39:612][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-12.50.39:612][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.50.39:614][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.50.39:639][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.50.39:642][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.50.39:644][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.08-12.50.39:702][891]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.08-12.51.10:457][540]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-12.51.10:462][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.10:462][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-12.51.10:462][540]PIE: New page: PIE session: Main (2020. 1. 9. 오전 6:51:10)
+[2020.01.08-12.51.10:462][540]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.08-12.51.10:465][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002851s)
+[2020.01.08-12.51.10:466][540]LogAIModule: Creating AISystem for world Main
+[2020.01.08-12.51.10:466][540]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2020.01.08-12.51.10:466][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003762s)
+[2020.01.08-12.51.10:493][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.08-12.51.10:494][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.08-12.51.10:494][540]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.08-12.51.10:494][540]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Is Default: Yes
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: Channel Order:
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.08-12.51.10:507][540]LogAudioMixer: Display: 1: FrontRight
+[2020.01.08-12.51.10:517][540]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.51.10:518][540]LogInit: FAudioDevice initialized.
+[2020.01.08-12.51.10:529][540]LogLoad: Game class is 'BuildingEscapeGameModeBase'
+[2020.01.08-12.51.10:530][540]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.08-21.51.10
+[2020.01.08-12.51.10:530][540]LogWorld: Bringing up level for play took: 0.000746
+[2020.01.08-12.51.10:530][540]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.08-12.51.10:532][540]PIE: Play in editor start time for /Game/UEDPIE_0_Main 0.123
+[2020.01.08-12.51.10:532][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.19:034][557]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.51.19:034][557]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.51.19:034][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.19:034][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.51.19:034][557]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.08-12.51.19:034][557]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.51.19:034][557]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-12.51.19:034][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.51.19:041][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-12.51.19:042][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.19:044][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.51.19:071][557]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.51.19:073][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.51.19:075][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.01.08-12.51.19:139][563]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.08-12.51.19:959][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-12.51.19:964][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.19:964][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-12.51.19:964][661]PIE: New page: PIE session: Main (2020. 1. 9. 오전 6:51:19)
+[2020.01.08-12.51.19:964][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.08-12.51.19:967][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002697s)
+[2020.01.08-12.51.19:967][661]LogAIModule: Creating AISystem for world Main
+[2020.01.08-12.51.19:967][661]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2020.01.08-12.51.19:967][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003549s)
+[2020.01.08-12.51.19:994][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.08-12.51.19:995][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.08-12.51.19:995][661]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.08-12.51.19:995][661]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Is Default: Yes
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: Channel Order:
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.08-12.51.20:008][661]LogAudioMixer: Display: 1: FrontRight
+[2020.01.08-12.51.20:017][661]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.08-12.51.20:018][661]LogInit: FAudioDevice initialized.
+[2020.01.08-12.51.20:025][661]LogLoad: Game class is 'BuildingEscapeGameModeBase'
+[2020.01.08-12.51.20:026][661]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.08-21.51.20
+[2020.01.08-12.51.20:026][661]LogWorld: Bringing up level for play took: 0.000694
+[2020.01.08-12.51.20:026][661]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.08-12.51.20:028][661]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.38
+[2020.01.08-12.51.20:028][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.51.58:712][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.01.08-12.52.54:395][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.52.54:395][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.52.54:395][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.52.54:395][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.52.54:395][890]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.08-12.52.54:395][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.52.54:395][890]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-12.52.54:396][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.52.54:399][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-12.52.54:400][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.08-12.52.54:402][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.08-12.52.54:428][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.08-12.52.54:431][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-12.52.54:433][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.08-12.52.54:500][896]LogPlayLevel: Display: Destroying online subsystem :Context_18

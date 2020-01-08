@@ -399,7 +399,16 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UOb
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
 E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Source\BuildingEscape/OpenDoor.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine//TriggerVolume.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Brush.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNet.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
@@ -413,9 +422,6 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\EngineLogs.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\Net/GuidReferences.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetSerialization.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineTypes.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/EngineBaseTypes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
@@ -423,6 +429,12 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Templates/
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineBaseTypes.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphNode.generated.h
@@ -431,8 +443,21 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Interfa
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_AssetUserData.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\PixelFormat.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc\Change.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Brush.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
 E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\OpenDoor.generated.h
