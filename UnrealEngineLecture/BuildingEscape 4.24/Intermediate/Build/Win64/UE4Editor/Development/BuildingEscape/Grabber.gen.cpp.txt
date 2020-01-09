@@ -435,4 +435,22 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UOb
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsHandleComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericAccessibleInterfaces.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\InputChord.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
 E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\Grabber.generated.h

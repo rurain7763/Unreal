@@ -1,0 +1,22 @@
+﻿  Parsing headers for BuildingEscapeEditor
+    Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BuildingEscapeEditor in 5.2075613 seconds
+  Building BuildingEscapeEditor...
+  Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+  [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+  [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+  [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+  [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+  [Upgrade]
+  Building 5 actions with 16 processes...
+    [1/5] Grabber.gen.cpp
+    [2/5] Grabber.cpp
+    [3/5] UE4Editor-BuildingEscape-0045.lib
+       E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0045.lib ���̺귯�� �� E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0045.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+    [4/5] UE4Editor-BuildingEscape-0045.dll
+       E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0045.suppressed.lib ���̺귯�� �� E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0045.suppressed.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+    [5/5] BuildingEscapeEditor.target
+  Total time in Parallel executor: 5.32 seconds
+  Total execution time: 11.10 seconds
