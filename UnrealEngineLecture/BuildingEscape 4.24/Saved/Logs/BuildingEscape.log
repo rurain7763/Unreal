@@ -1253,3 +1253,1160 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.14-09.23.30:575][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
 [2020.01.14-09.23.38:402][121]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/BuildingEscape.OpenDoor
 [2020.01.14-09.24.41:581][661]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/BuildingEscape.Grabber
+[2020.01.14-09.34.52:998][224]LogSlate: Window 'Select Path' being destroyed
+[2020.01.14-09.34.53:040][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.01.14-09.34.53:077][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-09.35.10:698][173]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2020.01.14-09.35.11:230][174]LogRenderer: Reallocating scene render targets to support 1044x992 Format 10 NumSamples 1 (Frame:1).
+[2020.01.14-09.35.21:368][ 88]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-09.35.21:368][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.35.47:144][776]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2020.01.14-09.36.25:895][224]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-09.36.25:895][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.38.09:685][ 72]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-09.38.09:688][ 72]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-09.38.09:697][ 72]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-09.38.09:697][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.38.40:439][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.14-09.38.40:445][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-09.38.40:620][629]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto2C70FE58E490C2C5E01FC4DAC11F2212B.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto2.umap'
+[2020.01.14-09.38.40:621][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.251
+[2020.01.14-09.38.40:621][629]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2020.01.14-09.38.40:622][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-09.38.40:629][629]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-09.38.40:629][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-09.38.40:629][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-09.38.40:639][629]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto2430BC7E84D22D992E183058376C3D707.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto2.uasset'
+[2020.01.14-09.38.40:640][629]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.01.14-09.39.31:616][616]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.14-09.39.31:711][624]LogEditorViewport: Clicking on Actor (double click): Openable_door_C (Openable_door)
+[2020.01.14-09.39.41:809][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-09.42.40:314][ 87]Candidate modules for hot reload:
+[2020.01.14-09.42.40:314][ 87]  BuildingEscape
+[2020.01.14-09.42.40:314][ 87]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5688 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-09.42.40:321][ 87]Warning: Starting HotReload took  0.0s.
+[2020.01.14-09.43.09:327][717]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 3:43:09
+[2020.01.14-09.43.09:327][717]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 16.1097494 seconds
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade]
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: [Upgrade]
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Building 7 actions with 16 processes...
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [1/7] BuildingEscape.init.gen.cpp
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [2/7] OpenDoor.gen.cpp
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [3/7] OpenDoor.cpp
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [4/7] Grabber.cpp
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Source\BuildingEscape\Grabber.cpp(93): warning C4996: 'UPhysicsHandleComponent::GrabComponent': Please use GrabComponentAtLocation or GrabComponentAtLocationWithRotation Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h(86): note: 'UPhysicsHandleComponent::GrabComponent' ?????? ?????Ͻʽÿ?.
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [5/7] UE4Editor-BuildingEscape-5688.lib
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5688.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5688.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [6/7] UE4Editor-BuildingEscape-5688.dll
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5688.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5688.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-09.43.09:328][717]CompilerResultsLog:   [7/7] BuildingEscapeEditor.target
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Total time in Parallel executor: 11.82 seconds
+[2020.01.14-09.43.09:328][717]CompilerResultsLog: Total execution time: 28.92 seconds
+[2020.01.14-09.43.09:328][717]LogMainFrame: MainFrame: Module compiling took 29.021 seconds
+[2020.01.14-09.43.09:387][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.14-09.43.09:407][717]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.01.14-09.43.09:409][717]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-09.43.09:487][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.01.14-09.43.09:503][717]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3021 classes and 722 folders.
+[2020.01.14-09.43.09:503][717]Display: HotReload took 29.2s.
+[2020.01.14-09.43.09:778][717]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'Ͻ (U+03fd)'
+[2020.01.14-09.43.09:787][717]LogSlate: Took 0.005424 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.01.14-09.45.50:801][467]Candidate modules for hot reload:
+[2020.01.14-09.45.50:801][467]  BuildingEscape
+[2020.01.14-09.45.50:801][467]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1852 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-09.45.50:812][467]Warning: Starting HotReload took  0.0s.
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 3:46:07
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-09.46.07:210][812]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.4531308 seconds
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade]
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: [Upgrade]
+[2020.01.14-09.46.07:210][812]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.14-09.46.07:210][812]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.14-09.46.07:210][812]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2020.01.14-09.46.07:210][812]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2020.01.14-09.46.07:211][812]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-1852.lib
+[2020.01.14-09.46.07:211][812]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1852.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1852.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-09.46.07:211][812]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-1852.dll
+[2020.01.14-09.46.07:211][812]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1852.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1852.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-09.46.07:211][812]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.14-09.46.07:211][812]CompilerResultsLog: Total time in Parallel executor: 9.96 seconds
+[2020.01.14-09.46.07:211][812]CompilerResultsLog: Total execution time: 16.30 seconds
+[2020.01.14-09.46.07:211][812]LogMainFrame: MainFrame: Module compiling took 16.414 seconds
+[2020.01.14-09.46.07:261][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.14-09.46.07:276][812]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.14-09.46.07:283][812]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.14-09.46.07:496][812]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.01.14-09.46.07:500][812]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-09.46.07:601][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.01.14-09.46.07:614][812]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3021 classes and 722 folders.
+[2020.01.14-09.46.07:614][812]Display: HotReload took 16.8s.
+[2020.01.14-09.47.47:723][ 46]Cmd: TRANSACTION UNDO
+[2020.01.14-09.47.47:723][ 46]LogEditorTransaction: Undo Set Rotation
+[2020.01.14-09.48.14:027][  7]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-09.48.14:345][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.01.14-09.48.16:081][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/Openable_door.uasset" SILENT=true
+[2020.01.14-09.48.16:094][187]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door0ECF06DC4F2C41F87D3DE095CC891D41.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Content/Openable_door.uasset'
+[2020.01.14-09.48.16:107][187]AssetCheck: New page: Asset Save: Openable_door
+[2020.01.14-09.48.16:107][187]LogContentValidation: Display: Validating Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-09.48.18:780][497]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-09.48.18:784][497]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-09.48.18:791][497]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-09.48.18:791][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.48.19:569][582]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-09.48.19:577][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-09.48.19:577][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-09.48.19:577][582]PIE: New page: PIE session: Main (2020. 1. 15. 오전 3:48:19)
+[2020.01.14-09.48.19:577][582]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-09.48.19:580][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2020.01.14-09.48.19:581][582]LogAIModule: Creating AISystem for world Main
+[2020.01.14-09.48.19:581][582]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2020.01.14-09.48.19:581][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003870s)
+[2020.01.14-09.48.19:645][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.01.14-09.48.19:647][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-09.48.19:647][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-09.48.19:647][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-09.48.19:647][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-09.48.19:647][582]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-09.48.19:648][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-09.48.19:648][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-09.48.19:648][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-09.48.19:648][582]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-09.48.19:648][582]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: Channel Order:
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-09.48.19:674][582]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-09.48.19:684][582]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-09.48.19:685][582]LogInit: FAudioDevice initialized.
+[2020.01.14-09.48.19:693][582]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-09.48.19:695][582]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-18.48.19
+[2020.01.14-09.48.19:695][582]LogWorld: Bringing up level for play took: 0.000844
+[2020.01.14-09.48.19:695][582]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.14-09.48.19:697][582]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.726
+[2020.01.14-09.48.19:697][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-09.48.28:424][625]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-09.48.28:425][625]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-09.48.28:425][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-09.48.28:425][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-09.48.28:425][625]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-09.48.28:425][625]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-09.48.28:425][625]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-09.48.28:425][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.48.28:430][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-09.48.28:431][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-09.48.28:434][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-09.48.28:462][625]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-09.48.28:465][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-09.48.28:485][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.14-09.48.28:532][627]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.14-09.49.05:519][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.14-09.49.05:522][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-09.49.05:684][571]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto3A1E30AC34075C754D1F9A780DCFEB162.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto3.umap'
+[2020.01.14-09.49.05:686][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.194
+[2020.01.14-09.49.05:686][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2020.01.14-09.58.56:595][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-09.59.49:714][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.14-09.59.49:718][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-09.59.49:867][712]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto45688D6C1451DF2BF8D87B2A0E033BA98.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto4.umap'
+[2020.01.14-09.59.49:869][712]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.185
+[2020.01.14-09.59.49:869][712]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2020.01.14-09.59.49:869][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-09.59.49:876][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-09.59.49:876][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-09.59.49:876][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-09.59.49:890][712]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto4C9C187614D29BE9E9CE528BA5EA32A0F.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto4.uasset'
+[2020.01.14-09.59.49:891][712]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.01.14-10.05.38:013][670]LogEditorTransaction: Undo Break Pin Links
+[2020.01.14-10.05.54:043][501]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-10.05.54:251][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.14-10.06.03:742][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.06.03:747][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.06.03:747][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-10.06.03:747][503]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:06:03)
+[2020.01.14-10.06.03:747][503]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.06.03:751][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2020.01.14-10.06.03:751][503]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.06.03:752][503]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2020.01.14-10.06.03:752][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004126s)
+[2020.01.14-10.06.03:786][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.06.03:787][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.06.03:787][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.06.03:788][503]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.06.03:788][503]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.06.03:801][503]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.06.03:811][503]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.06.03:812][503]LogInit: FAudioDevice initialized.
+[2020.01.14-10.06.03:819][503]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.06.03:821][503]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.06.03
+[2020.01.14-10.06.03:821][503]LogWorld: Bringing up level for play took: 0.000814
+[2020.01.14-10.06.03:821][503]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.14-10.06.03:823][503]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.599
+[2020.01.14-10.06.03:823][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.06.34:874][ 68]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.06.34:874][ 68]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.06.34:874][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.06.34:874][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.06.34:874][ 68]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.06.34:874][ 68]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.06.34:874][ 68]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.06.34:875][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.06.34:882][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.06.34:883][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.06.34:886][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.06.34:916][ 68]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.06.34:918][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.06.34:921][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.01.14-10.06.34:985][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.14-10.06.55:206][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.06.55:212][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.06.55:212][423]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.14-10.06.55:212][423]LogPlayLevel: [PlayLevel] Compiling Openable_door before play...
+[2020.01.14-10.06.55:387][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.01.14-10.06.55:388][423]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2020.01.14-10.06.55:388][423]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:06:55)
+[2020.01.14-10.06.55:388][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.06.55:392][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002952s)
+[2020.01.14-10.06.55:392][423]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.06.55:393][423]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2020.01.14-10.06.55:393][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003923s)
+[2020.01.14-10.06.55:427][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.01.14-10.06.55:427][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.06.55:427][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.06.55:428][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.06.55:428][423]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.06.55:428][423]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.06.55:441][423]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.06.55:451][423]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.06.55:452][423]LogInit: FAudioDevice initialized.
+[2020.01.14-10.06.55:460][423]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.06.55:461][423]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.06.55
+[2020.01.14-10.06.55:462][423]LogWorld: Bringing up level for play took: 0.000758
+[2020.01.14-10.06.55:462][423]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.14-10.06.55:463][423]PIE: Play in editor start time for /Game/UEDPIE_0_Main 1.04
+[2020.01.14-10.06.55:463][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.07.16:970][981]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.07.16:970][981]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.07.16:970][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.07.16:970][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.07.16:970][981]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.07.16:970][981]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.07.16:970][981]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.07.16:970][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.07.16:978][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.07.16:978][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.07.16:982][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.07.17:013][981]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.07.17:016][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.07.17:019][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.14-10.07.17:077][983]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.14-10.08.10:231][214]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-10.08.10:419][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.14-10.09.56:118][ 65]Candidate modules for hot reload:
+[2020.01.14-10.09.56:118][ 65]  BuildingEscape
+[2020.01.14-10.09.56:118][ 65]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9979 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.09.56:126][ 65]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:10:12
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.8371128 seconds
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-9979.lib
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9979.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9979.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-9979.dll
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9979.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9979.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.10.12:676][977]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Total time in Parallel executor: 9.74 seconds
+[2020.01.14-10.10.12:676][977]CompilerResultsLog: Total execution time: 16.46 seconds
+[2020.01.14-10.10.12:676][977]LogMainFrame: MainFrame: Module compiling took 16.562 seconds
+[2020.01.14-10.10.12:712][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.14-10.10.12:733][977]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.14-10.10.12:739][977]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.14-10.10.12:878][977]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.01.14-10.10.12:881][977]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-10.10.12:958][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.14-10.10.12:971][977]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3021 classes and 722 folders.
+[2020.01.14-10.10.12:971][977]Display: HotReload took 16.9s.
+[2020.01.14-10.10.43:011][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.14-10.10.43:011][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-10.10.43:195][298]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto5E6792D674D675BE82F2B2298A989674D.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto5.umap'
+[2020.01.14-10.10.43:197][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.258
+[2020.01.14-10.10.43:197][298]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2020.01.14-10.10.43:197][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-10.10.43:216][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-10.10.43:216][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-10.10.43:216][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-10.10.43:229][298]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto53F4D9775417E41BC2298A890FD4D8783.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto5.uasset'
+[2020.01.14-10.10.43:231][298]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.01.14-10.11.18:604][405]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.14-10.11.18:609][405]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 옛한글).
+[2020.01.14-10.12.24:047][863]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.12.24:052][863]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.12.24:052][863]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.12.24:052][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.12.31:035][156]Candidate modules for hot reload:
+[2020.01.14-10.12.31:035][156]  BuildingEscape
+[2020.01.14-10.12.31:036][156]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9867 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.12.31:041][156]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:12:46
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.5714221 seconds
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-9867.lib
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9867.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9867.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-9867.dll
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9867.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9867.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.12.46:951][996]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Total time in Parallel executor: 9.45 seconds
+[2020.01.14-10.12.46:951][996]CompilerResultsLog: Total execution time: 15.83 seconds
+[2020.01.14-10.12.46:951][996]LogMainFrame: MainFrame: Module compiling took 15.919 seconds
+[2020.01.14-10.12.47:004][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.01.14-10.12.47:028][996]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.01.14-10.12.47:031][996]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-10.12.47:148][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.01.14-10.12.47:162][996]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3021 classes and 722 folders.
+[2020.01.14-10.12.47:162][996]Display: HotReload took 16.1s.
+[2020.01.14-10.12.48:784][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-10.16.17:391][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.16.17:398][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.16.17:398][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.14-10.16.17:399][ 29]LogPlayLevel: [PlayLevel] Compiling Openable_door before play...
+[2020.01.14-10.16.17:682][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.01.14-10.16.17:683][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 284 ms (1 blueprints)
+[2020.01.14-10.16.17:683][ 29]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:16:17)
+[2020.01.14-10.16.17:684][ 29]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.16.17:687][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003149s)
+[2020.01.14-10.16.17:687][ 29]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.16.17:688][ 29]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2020.01.14-10.16.17:688][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004332s)
+[2020.01.14-10.16.17:738][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.16.17:739][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.16.17:739][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.16.17:739][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.16.17:753][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.16.17:762][ 29]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.16.17:763][ 29]LogInit: FAudioDevice initialized.
+[2020.01.14-10.16.17:769][ 29]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.16.17:771][ 29]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.16.17
+[2020.01.14-10.16.17:771][ 29]LogWorld: Bringing up level for play took: 0.000769
+[2020.01.14-10.16.17:771][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.14-10.16.17:773][ 29]PIE: Play in editor start time for /Game/UEDPIE_0_Main 1.35
+[2020.01.14-10.16.17:773][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.17.00:238][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.17.00:244][ 33]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.14-10.17.00:254][ 33]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.14-10.17.00:254][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.17.00:254][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.17.00:254][ 33]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.17.00:254][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.17.00:254][ 33]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.17.00:254][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.17.00:264][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.17.00:265][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.17.00:268][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.17.00:306][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.17.00:309][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.17.00:312][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.01.14-10.17.00:337][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.14-10.21.02:591][352]Candidate modules for hot reload:
+[2020.01.14-10.21.02:591][352]  BuildingEscape
+[2020.01.14-10.21.02:591][352]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4050 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.21.02:600][352]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:21:15
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.9892936 seconds
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.21.15:663][251]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:    E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Source\BuildingEscape\OpenDoor.cpp(38) : error C2065: 'lastDoorOpenTime': ???????? ???? ?ĺ????Դϴ?.
+[2020.01.14-10.21.15:663][251]CompilerResultsLog:    E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Source\BuildingEscape\OpenDoor.cpp(38) : error C2065: 'doorCloseDelay': ???????? ???? ?ĺ????Դϴ?.
+[2020.01.14-10.21.15:663][251]LogMainFrame: MainFrame: Module compiling took 13.077 seconds
+[2020.01.14-10.21.15:663][251]Warning: HotReload failed, recompile failed
+[2020.01.14-10.21.30:947][325]Candidate modules for hot reload:
+[2020.01.14-10.21.30:947][325]  BuildingEscape
+[2020.01.14-10.21.30:947][325]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8331 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.21.30:954][325]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.21.34:394][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.14-10.21.34:399][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-10.21.34:549][684]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto6178A03754DD6AA05DDABB2A27BE21F75.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto6.umap'
+[2020.01.14-10.21.34:551][684]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.190
+[2020.01.14-10.21.34:551][684]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2020.01.14-10.21.34:551][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-10.21.34:562][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-10.21.34:562][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-10.21.34:564][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-10.21.34:576][684]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto6EF3A7312453CAA03AF253BB9182B208E.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto6.uasset'
+[2020.01.14-10.21.34:578][684]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:21:47
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.824992 seconds
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-8331.lib
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8331.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8331.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-8331.dll
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8331.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8331.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.21.47:354][168]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Total time in Parallel executor: 9.70 seconds
+[2020.01.14-10.21.47:354][168]CompilerResultsLog: Total execution time: 16.33 seconds
+[2020.01.14-10.21.47:354][168]LogMainFrame: MainFrame: Module compiling took 16.410 seconds
+[2020.01.14-10.21.47:390][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.01.14-10.21.47:406][168]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.14-10.21.47:413][168]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.01.14-10.21.47:546][168]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.01.14-10.21.47:550][168]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-10.21.47:631][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.14-10.21.47:645][168]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3021 classes and 722 folders.
+[2020.01.14-10.21.47:645][168]Display: HotReload took 16.7s.
+[2020.01.14-10.21.49:293][333]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.21.49:301][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.21.49:301][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-10.21.49:301][333]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:21:49)
+[2020.01.14-10.21.49:301][333]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.21.49:304][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002968s)
+[2020.01.14-10.21.49:305][333]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.21.49:305][333]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2020.01.14-10.21.49:305][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003857s)
+[2020.01.14-10.21.49:354][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.21.49:355][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.21.49:355][333]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.21.49:355][333]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.21.49:368][333]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.21.49:378][333]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.21.49:380][333]LogInit: FAudioDevice initialized.
+[2020.01.14-10.21.49:385][333]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.21.49:387][333]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.21.49
+[2020.01.14-10.21.49:387][333]LogWorld: Bringing up level for play took: 0.000780
+[2020.01.14-10.21.49:387][333]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.14-10.21.49:388][333]PIE: Play in editor start time for /Game/UEDPIE_0_Main 0.965
+[2020.01.14-10.21.49:388][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.22.12:612][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.22.12:612][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.22.12:612][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.22.12:612][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.22.12:612][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.22.12:612][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.22.12:612][ 81]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.22.12:612][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.22.12:623][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.22.12:624][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.22.12:628][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.22.12:664][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.22.12:668][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.22.12:673][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.14-10.22.12:732][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.14-10.26.47:192][544]Candidate modules for hot reload:
+[2020.01.14-10.26.47:192][544]  BuildingEscape
+[2020.01.14-10.26.47:192][544]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4801 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.26.47:198][544]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.26.54:507][346]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:26:54
+[2020.01.14-10.26.54:507][346]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.14-10.26.54:507][346]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.26.54:507][346]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.26.54:507][346]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/DoorEvent.h(10)  : Error: Delegate type declarations must start with F
+[2020.01.14-10.26.54:507][346]LogMainFrame: MainFrame: Module compiling took 7.319 seconds
+[2020.01.14-10.26.54:507][346]Warning: HotReload failed, recompile failed
+[2020.01.14-10.26.59:488][914]Candidate modules for hot reload:
+[2020.01.14-10.26.59:488][914]  BuildingEscape
+[2020.01.14-10.26.59:488][914]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5565 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.26.59:493][914]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.27.06:703][717]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:27:06
+[2020.01.14-10.27.06:703][717]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.14-10.27.06:703][717]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.27.06:703][717]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.27.06:703][717]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/DoorEvent.h(10)  : Error: Delegate type declarations must start with F
+[2020.01.14-10.27.06:703][717]LogMainFrame: MainFrame: Module compiling took 7.219 seconds
+[2020.01.14-10.27.06:704][717]Warning: HotReload failed, recompile failed
+[2020.01.14-10.27.48:830][616]Candidate modules for hot reload:
+[2020.01.14-10.27.48:830][616]  BuildingEscape
+[2020.01.14-10.27.48:831][616]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8496 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.27.48:836][616]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.27.52:245][979]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.27.52:251][979]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.27.56:045][418]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:27:56
+[2020.01.14-10.27.56:045][418]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.14-10.27.56:045][418]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.27.56:045][418]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.27.56:045][418]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/DoorEvent.h(16)  : Error: Class name 'FDoorEvent' is invalid, should be identified as 'UDoorEvent'
+[2020.01.14-10.27.56:045][418]LogMainFrame: MainFrame: Module compiling took 7.217 seconds
+[2020.01.14-10.27.56:045][418]Warning: HotReload failed, recompile failed
+[2020.01.14-10.28.08:949][910]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.28.08:954][910]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.28.38:005][241]Candidate modules for hot reload:
+[2020.01.14-10.28.38:005][241]  BuildingEscape
+[2020.01.14-10.28.38:005][241]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1471 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.28.38:011][241]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.28.45:350][ 39]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:28:45
+[2020.01.14-10.28.45:350][ 39]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.14-10.28.45:350][ 39]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.28.45:350][ 39]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.28.45:350][ 39]CompilerResultsLog: Error: E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Source/BuildingEscape/DoorEvent.h(47)  : Error: Expected an include at the top of the header: '#include "DoorEvent.generated.h"'
+[2020.01.14-10.28.45:350][ 39]LogMainFrame: MainFrame: Module compiling took 7.347 seconds
+[2020.01.14-10.28.45:350][ 39]Warning: HotReload failed, recompile failed
+[2020.01.14-10.30.03:689][817]Candidate modules for hot reload:
+[2020.01.14-10.30.03:689][817]  BuildingEscape
+[2020.01.14-10.30.03:689][817]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9018 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.30.03:697][817]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.30.15:752][114]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.30.15:759][114]LogSlate: Window 'Message Log' being destroyed
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:30:21
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (game project files are newer)
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.8721789 seconds
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [2/6] DoorEvent.gen.cpp
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [3/6] DoorEvent.cpp
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-9018.lib
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9018.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9018.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-9018.dll
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9018.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9018.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.30.21:499][788]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Total time in Parallel executor: 9.76 seconds
+[2020.01.14-10.30.21:499][788]CompilerResultsLog: Total execution time: 17.70 seconds
+[2020.01.14-10.30.21:499][788]LogMainFrame: MainFrame: Module compiling took 17.813 seconds
+[2020.01.14-10.30.21:540][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.14-10.30.21:556][788]LogClass: Could not find existing class DoorEvent in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.14-10.30.21:563][788]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.01.14-10.30.21:567][788]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-10.30.21:665][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.14-10.30.21:679][788]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 3022 classes and 722 folders.
+[2020.01.14-10.30.21:679][788]Display: HotReload took 18.0s.
+[2020.01.14-10.31.03:545][497]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-10.31.03:822][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.14-10.31.04:239][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.31.04:246][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.31.04:246][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-10.31.04:246][543]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:31:04)
+[2020.01.14-10.31.04:246][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.31.04:249][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002908s)
+[2020.01.14-10.31.04:250][543]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.31.04:250][543]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2020.01.14-10.31.04:250][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003805s)
+[2020.01.14-10.31.04:302][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.31.04:302][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.31.04:302][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.31.04:303][543]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.31.04:303][543]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.31.04:316][543]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.31.04:326][543]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.31.04:327][543]LogInit: FAudioDevice initialized.
+[2020.01.14-10.31.04:333][543]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.31.04:334][543]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.31.04
+[2020.01.14-10.31.04:334][543]LogWorld: Bringing up level for play took: 0.000863
+[2020.01.14-10.31.04:335][543]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.14-10.31.04:336][543]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.087
+[2020.01.14-10.31.04:336][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.31.24:757][884]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.31.24:757][884]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.31.24:757][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.31.24:758][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.31.24:758][884]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.31.24:758][884]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.31.24:759][884]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.31.24:759][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.31.24:767][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.31.24:768][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.31.24:772][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.31.24:808][884]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.31.24:811][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.31.24:814][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.01.14-10.31.24:861][887]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.14-10.31.31:755][601]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.31.31:760][601]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.31.31:760][601]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.31.31:760][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.31.33:318][780]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-10.31.37:774][261]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.31.37:778][261]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.31.37:779][261]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.31.37:779][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.32.18:385][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.14-10.32.18:387][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-10.32.18:574][513]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto7DFD835AC425FA151A421CA9D025E5C5E.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto7.umap'
+[2020.01.14-10.32.18:576][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.243
+[2020.01.14-10.32.18:576][513]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2020.01.14-10.32.18:576][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-10.32.18:594][513]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-10.32.18:594][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-10.32.18:594][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-10.32.18:609][513]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto7E5AC0647420B47533BBE07928E6680C2.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto7.uasset'
+[2020.01.14-10.32.18:610][513]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.01.14-10.33.51:028][791]Candidate modules for hot reload:
+[2020.01.14-10.33.51:028][791]  BuildingEscape
+[2020.01.14-10.33.51:029][791]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1265 Win64 Development -TargetType=Editor -Project="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject" "E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.01.14-10.33.51:036][791]Warning: Starting HotReload took  0.0s.
+[2020.01.14-10.34.07:361][686]CompilerResultsLog: New page: Compilation - 2020. 1. 15. 오전 4:34:07
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\BuildingEscape.uproject" "E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 5.7472351 seconds
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: [Upgrade]
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [2/6] DoorEvent.gen.cpp
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [3/6] DoorEvent.cpp
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-1265.lib
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1265.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1265.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-1265.dll
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:      E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1265.suppressed.lib ???̺귯?? ?? E:\Unreal\UnrealEngineLecture\BuildingEscape 4.24\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1265.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.01.14-10.34.07:362][686]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Total time in Parallel executor: 9.66 seconds
+[2020.01.14-10.34.07:362][686]CompilerResultsLog: Total execution time: 16.25 seconds
+[2020.01.14-10.34.07:362][686]LogMainFrame: MainFrame: Module compiling took 16.338 seconds
+[2020.01.14-10.34.07:415][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.14-10.34.07:429][686]LogClass: Could not find existing class DoorEvent in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.01.14-10.34.07:436][686]LogHotReload: Re-instancing DoorEvent after hot-reload.
+[2020.01.14-10.34.07:566][686]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.01.14-10.34.07:570][686]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.14-10.34.07:643][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.01.14-10.34.07:657][686]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3022 classes and 722 folders.
+[2020.01.14-10.34.07:657][686]Display: HotReload took 16.6s.
+[2020.01.14-10.34.09:045][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-10.34.42:126][305]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-10.34.42:384][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.01.14-10.34.43:675][456]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.34.43:680][456]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.34.43:680][456]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.34.43:680][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.34.47:375][891]MapCheck: New page: Map Check
+[2020.01.14-10.34.47:388][891]Cmd: MAP REBUILD ALLVISIBLE
+[2020.01.14-10.34.47:390][891]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.01.14-10.34.47:498][891]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2020.01.14-10.34.47:562][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.01.14-10.34.47:570][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:582][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:596][891]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.01.14-10.34.47:596][891]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.01.14-10.34.47:596][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:608][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.01.14-10.34.47:619][891]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.01.14-10.34.47:619][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:636][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:649][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:670][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:686][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:703][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.47:720][891]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2020.01.14-10.34.47:720][891]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2020.01.14-10.34.47:720][891]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2020.01.14-10.34.47:720][891]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2020.01.14-10.34.47:720][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.01.14-10.34.48:408][891]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.01.14-10.34.48:408][891]TextureStreamingBuild: Display: Compiling optional shaders took 0.845 seconds.
+[2020.01.14-10.34.48:416][891]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.01.14-10.34.48:419][891]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2020.01.14-10.34.48:443][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.14-10.34.48:445][891]LightingResults: New page: Lighting Build - 2020. 1. 15. 오전 4:34:48
+[2020.01.14-10.34.48:449][891]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.14-10.34.48:456][891]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.14-10.34.48:456][891]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.14-10.34.48:462][891]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.14-10.34.48:462][891]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17808
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.14-10.34.52:983][891]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.14-10.34.53:133][891]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.01.14-10.34.53:133][891]MapCheck: New page: Main - 2020. 1. 15. 오전 4:34:53
+[2020.01.14-10.34.53:134][891]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.306ms to complete.
+[2020.01.14-10.34.53:135][891]LogEditorBuildUtils: Build time 0:05
+[2020.01.14-10.34.53:374][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.01.14-10.34.56:467][ 15]Job is a success!
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.085s
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:      Bricks at depth
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:      Bricks in each level
+[2020.01.14-10.34.56:960][ 16]LogVolumetricLightmapImport:          Main 			 10 bricks 	 100.0% (Persistent Level)
+[2020.01.14-10.34.57:070][ 16]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.01.14-10.34.57:070][ 16]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.01.14-10.34.57:070][ 16]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.01.14-10.34.57:070][ 16]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.01.14-10.34.57:131][ 16]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.01.14-10.34.57:131][ 16]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2020.01.14-10.34.57:131][ 16]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 16 meshes in 2 LightmapResourceClusters (8.0 Meshes per cluster).
+[2020.01.14-10.34.57:158][ 16]Lightmass on DESKTOP-QA6POHN: 1.82 sec total, 113 ms importing, 291 ms setup, 160 ms photons, 1.23 sec processing, 0 ms extra exporting [16/16 mappings]. Threads: 18.5 sec total, 2.39 sec processing.
+[2020.01.14-10.34.57:160][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.14-10.34.57:172][ 16]LogStaticLightingSystem: Illumination: 8.39 sec (103 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2020.01.14-10.34.57:172][ 16]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.01.14-10.34.57:172][ 16]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.01.14-10.34.57:987][ 16]DumpUnbuiltLightIteractions
+[2020.01.14-10.34.57:988][ 16]Lights with unbuilt interactions: 0
+[2020.01.14-10.34.57:988][ 16]
+[2020.01.14-10.34.57:988][ 16]Primitives with unbuilt interactions: 0
+[2020.01.14-10.34.58:059][ 17]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.14-10.34.58:059][ 17]MapCheck: New page: Main - 2020. 1. 15. 오전 4:34:58
+[2020.01.14-10.34.58:059][ 17]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2020.01.14-10.37.16:201][432]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.14-10.37.16:204][432]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.01.14-10.37.59:416][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-10.42.19:794][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.14-10.42.19:798][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-10.42.19:957][915]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto864A1F8464DDC5BE15A48269CF8434722.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto8.umap'
+[2020.01.14-10.42.19:958][915]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.198
+[2020.01.14-10.42.19:958][915]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.198
+[2020.01.14-10.42.19:958][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-10.42.19:965][915]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-10.42.19:965][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-10.42.19:965][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-10.42.19:978][915]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto8F51221A24F6AD72C04EA5DB40115717A.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto8.uasset'
+[2020.01.14-10.42.19:979][915]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.01.14-10.45.16:816][689]LogEditorViewport: Clicking on Actor (LMB): Openable_door_C (Openable_door)
+[2020.01.14-10.45.19:393][988]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.14-10.45.22:862][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2020.01.14-10.45.23:700][473]LogEditorViewport: Clicking on Actor (CTRL LMB): Openable_door_C (Openable_door)
+[2020.01.14-10.45.32:720][492]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.45.32:727][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.45.32:727][492]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.14-10.45.32:728][492]LogPlayLevel: [PlayLevel] Compiling Openable_door before play...
+[2020.01.14-10.45.32:928][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.14-10.45.32:931][492]LogPlayLevel: PlayLevel: Blueprint regeneration took 203 ms (1 blueprints)
+[2020.01.14-10.45.32:931][492]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:45:32)
+[2020.01.14-10.45.32:931][492]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.45.32:934][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2020.01.14-10.45.32:935][492]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.45.32:935][492]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2020.01.14-10.45.32:935][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004045s)
+[2020.01.14-10.45.32:964][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.45.32:965][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.45.32:965][492]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.45.32:965][492]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.45.32:978][492]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.45.32:979][492]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.45.32:989][492]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.45.32:990][492]LogInit: FAudioDevice initialized.
+[2020.01.14-10.45.32:998][492]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.45.32:999][492]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.45.32
+[2020.01.14-10.45.33:000][492]LogWorld: Bringing up level for play took: 0.000884
+[2020.01.14-10.45.33:000][492]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.14-10.45.33:001][492]PIE: Play in editor start time for /Game/UEDPIE_0_Main 0.578
+[2020.01.14-10.45.33:001][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.45.38:524][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.45.38:524][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.45.38:524][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.45.38:525][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.45.38:525][150]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.45.38:525][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.45.38:525][150]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.45.38:525][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.45.38:534][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.45.38:534][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.45.38:538][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.45.38:570][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.45.38:573][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.45.38:576][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.14-10.45.38:635][152]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.14-10.50.46:260][926]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-10.50.46:430][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.01.14-10.50.48:156][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.50.48:183][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.50.48:184][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-10.50.48:184][ 75]PIE: New page: PIE session: Main (2020. 1. 15. 오전 4:50:48)
+[2020.01.14-10.50.48:184][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-10.50.48:187][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003093s)
+[2020.01.14-10.50.48:188][ 75]LogAIModule: Creating AISystem for world Main
+[2020.01.14-10.50.48:188][ 75]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2020.01.14-10.50.48:188][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.004104s)
+[2020.01.14-10.50.48:222][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-10.50.48:222][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-10.50.48:222][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-10.50.48:223][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-10.50.48:223][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: Channel Order:
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-10.50.48:236][ 75]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-10.50.48:245][ 75]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-10.50.48:246][ 75]LogInit: FAudioDevice initialized.
+[2020.01.14-10.50.48:255][ 75]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-10.50.48:256][ 75]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-19.50.48
+[2020.01.14-10.50.48:257][ 75]LogWorld: Bringing up level for play took: 0.000812
+[2020.01.14-10.50.48:257][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.14-10.50.48:258][ 75]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.164
+[2020.01.14-10.50.48:259][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.51.11:696][807]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x307)
+[2020.01.14-10.51.12:713][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x307)
+[2020.01.14-10.51.15:593][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.14-10.51.19:673][494]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-10.51.54:383][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.51.54:383][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.51.54:383][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.51.54:384][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.51.54:384][571]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-10.51.54:384][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.51.54:384][571]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.51.54:384][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.51.54:397][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-10.51.54:397][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-10.51.54:401][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.51.54:433][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-10.51.54:436][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-10.51.54:439][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.01.14-10.51.54:506][573]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.14-10.51.56:079][753]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.51.56:083][753]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.51.56:083][753]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.51.56:083][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.51.59:523][149]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-10.52.07:263][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame2)
+[2020.01.14-10.52.08:319][935]Cmd: DELETE
+[2020.01.14-10.52.08:319][935]Cmd: ACTOR DELETE
+[2020.01.14-10.52.08:324][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.14-10.52.08:354][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.01.14-10.52.08:356][935]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.01.14-10.52.09:227][ 35]LogEditorViewport: Clicking on Actor (LMB): Openable_door_C (Openable_door2)
+[2020.01.14-10.52.09:955][110]Cmd: DELETE
+[2020.01.14-10.52.09:955][110]Cmd: ACTOR DELETE
+[2020.01.14-10.52.09:956][110]LogEditorActor: Deleted Actor: Openable_door_C
+[2020.01.14-10.52.09:991][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.14-10.52.09:992][110]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.01.14-10.53.03:176][949]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.53.03:181][949]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-10.53.03:187][949]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-10.53.03:187][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-10.53.31:967][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.01.14-10.53.31:973][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-10.53.32:122][304]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto937643E6D4897AC38D4136B954EB84294.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto9.umap'
+[2020.01.14-10.53.32:124][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.186
+[2020.01.14-10.53.32:124][304]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2020.01.14-10.53.32:124][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-10.53.32:132][304]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-10.53.32:132][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-10.53.32:132][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-10.53.32:148][304]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto9CE1313804AACB74454B072BFB3918C5F.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto9.uasset'
+[2020.01.14-10.53.32:150][304]LogFileHelpers: Auto-saving content packages took 0.026
+[2020.01.14-10.55.15:388][664]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Lee dong heon/Desktop/door-lock.wav)
+[2020.01.14-10.55.15:390][664]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave door-lock...
+[2020.01.14-10.55.15:390][664]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/door-lock.door-lock will be modified from 40 to 40.
+[2020.01.14-10.55.15:412][664]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 100464 while cooking SoundWave /Game/Sound/door-lock.door-lock.
+[2020.01.14-10.55.17:140][768]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/door-lock.door-lock
+[2020.01.14-10.55.19:957][ 91]LogSlate: Window 'door-lock' being destroyed
+[2020.01.14-10.55.19:962][ 91]LogSlate: Window 'door-lock' being destroyed
+[2020.01.14-10.55.57:218][233]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-11.00.30:949][267]BlueprintLog: New page: Compile Openable_door
+[2020.01.14-11.00.31:151][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.14-11.01.05:044][108]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-11.01.05:049][108]LogSlate: Window 'Openable_door' being destroyed
+[2020.01.14-11.01.05:051][108]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-11.01.05:051][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-11.01.06:247][236]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-11.01.06:253][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.01.06:253][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-11.01.06:253][236]PIE: New page: PIE session: Main (2020. 1. 15. 오전 5:01:06)
+[2020.01.14-11.01.06:253][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-11.01.06:256][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2020.01.14-11.01.06:257][236]LogAIModule: Creating AISystem for world Main
+[2020.01.14-11.01.06:257][236]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2020.01.14-11.01.06:257][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003996s)
+[2020.01.14-11.01.06:287][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-11.01.06:290][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-11.01.06:290][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-11.01.06:291][236]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-11.01.06:291][236]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: Channel Order:
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-11.01.06:304][236]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-11.01.06:314][236]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-11.01.06:315][236]LogInit: FAudioDevice initialized.
+[2020.01.14-11.01.06:322][236]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-11.01.06:323][236]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-20.01.06
+[2020.01.14-11.01.06:323][236]LogWorld: Bringing up level for play took: 0.000843
+[2020.01.14-11.01.06:323][236]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.01.14-11.01.06:325][236]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.098
+[2020.01.14-11.01.06:325][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.01.24:176][366]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.01.24:176][366]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.01.24:176][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.01.24:176][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-11.01.24:176][366]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-11.01.24:176][366]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.01.24:176][366]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-11.01.24:177][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-11.01.24:184][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-11.01.24:184][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.01.24:188][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-11.01.24:216][366]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.01.24:219][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-11.01.24:222][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.01.14-11.01.24:282][370]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.14-11.01.29:092][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Openable_door.Openable_door
+[2020.01.14-11.01.51:490][487]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-11.01.51:495][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.01.51:495][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-11.01.51:495][487]PIE: New page: PIE session: Main (2020. 1. 15. 오전 5:01:51)
+[2020.01.14-11.01.51:496][487]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2020.01.14-11.01.51:499][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002956s)
+[2020.01.14-11.01.51:499][487]LogAIModule: Creating AISystem for world Main
+[2020.01.14-11.01.51:499][487]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.01.14-11.01.51:499][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003893s)
+[2020.01.14-11.01.51:528][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.01.14-11.01.51:530][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.14-11.01.51:531][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.14-11.01.51:531][487]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.14-11.01.51:531][487]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Name: BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Is Default: Yes
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: Channel Order:
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.14-11.01.51:544][487]LogAudioMixer: Display: 1: FrontRight
+[2020.01.14-11.01.51:553][487]LogAudioMixer: Display: Using Audio Device BenQ XL2730Z(NVIDIA High Definition Audio)
+[2020.01.14-11.01.51:554][487]LogInit: FAudioDevice initialized.
+[2020.01.14-11.01.51:560][487]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2020.01.14-11.01.51:561][487]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.01.14-20.01.51
+[2020.01.14-11.01.51:562][487]LogWorld: Bringing up level for play took: 0.000766
+[2020.01.14-11.01.51:562][487]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.14-11.01.51:563][487]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.859
+[2020.01.14-11.01.51:563][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.02.04:994][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.02.04:999][ 81]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.14-11.02.05:009][ 81]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.14-11.02.05:009][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.02.05:009][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-11.02.05:009][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2020.01.14-11.02.05:009][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.02.05:009][ 81]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.01.14-11.02.05:009][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-11.02.05:022][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-11.02.05:022][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2020.01.14-11.02.05:025][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.14-11.02.05:058][ 81]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.14-11.02.05:061][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-11.02.05:064][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.01.14-11.02.05:112][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.14-11.04.04:323][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.14-11.04.04:324][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.14-11.04.04:482][994]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Main_Auto0C7C277C843B9F2EB1560099702976F92.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Main_Auto0.umap'
+[2020.01.14-11.04.04:484][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.200
+[2020.01.14-11.04.04:484][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2020.01.14-11.04.04:484][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Openable_door] ([1] browsable assets)...
+[2020.01.14-11.04.04:507][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Openable_door.Openable_door]
+[2020.01.14-11.04.04:507][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Openable_door]
+[2020.01.14-11.04.04:507][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Openable_door" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-11.04.04:523][994]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Openable_door_Auto0DDD90C01478F4FC6F3349EAD6C8C7A0C.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Openable_door_Auto0.uasset'
+[2020.01.14-11.04.04:524][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/door-lock] ([1] browsable assets)...
+[2020.01.14-11.04.04:529][994]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/door-lock.door-lock]
+[2020.01.14-11.04.04:529][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/door-lock]
+[2020.01.14-11.04.04:529][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/door-lock" FILE="E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Sound/door-lock_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.01.14-11.04.04:531][994]LogSavePackage: Moving 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/door-lock_Auto0F415B6514B5411A135F3DE8225B5262A.tmp' to 'E:/Unreal/UnrealEngineLecture/BuildingEscape 4.24/Saved/Autosaves/Game/Sound/door-lock_Auto0.uasset'
+[2020.01.14-11.04.04:532][994]LogFileHelpers: Auto-saving content packages took 0.049

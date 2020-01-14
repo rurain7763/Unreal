@@ -98,18 +98,18 @@
     <None Include="cpp.hint" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\BuildingEscape\OpenDoor.h">
+    <ClInclude Include="..\..\Source\BuildingEscape\Grabber.h">
       <Filter>Source\BuildingEscape</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\BuildingEscape\Grabber.h">
+    <ClInclude Include="..\..\Source\BuildingEscape\DoorEvent.h">
       <Filter>Source\BuildingEscape</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\BuildingEscape\OpenDoor.cpp">
+    <ClCompile Include="..\..\Source\BuildingEscape\Grabber.cpp">
       <Filter>Source\BuildingEscape</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\BuildingEscape\Grabber.cpp">
+    <ClCompile Include="..\..\Source\BuildingEscape\DoorEvent.cpp">
       <Filter>Source\BuildingEscape</Filter>
     </ClCompile>
   </ItemGroup>
